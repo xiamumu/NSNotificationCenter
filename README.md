@@ -1,0 +1,2 @@
+# NSNotificationCenter
+NSNotificationCenter的使用代码
